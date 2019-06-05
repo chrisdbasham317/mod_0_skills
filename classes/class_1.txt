@@ -1,0 +1,13 @@
+# Programs
+##Attributes
+-title (string)
+-cost (integer)
+-location (string)
+-instructor (string)
+
+##Methods
+-change_name(alters title)
+-increase_tuition(raises cost)
+-decrease_tuition(lowers cost)
+-cancel_class (deletes instance)
+-change_instructor (replaces instructor)
