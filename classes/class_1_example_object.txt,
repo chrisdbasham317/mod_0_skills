@@ -1,0 +1,11 @@
+#turing_front_end
+-title("Front End Engineering")
+-cost(20000)
+-location ("1331 17th St LL100, Denver, CO 80202")
+-instructor ("Louisa")
+
+-change_name("Front End")
+-increase_tuition(25000)
+-decrease_tuition(15000)
+-cancel_class(deletes turing_front_end)
+-change_intructor("Tim")
