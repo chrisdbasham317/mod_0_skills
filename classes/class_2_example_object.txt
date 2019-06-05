@@ -1,0 +1,11 @@
+##Rachel Warbelow
+name("Rachel Warbelow")
+program("Mod 0")
+location("1331 17th St LL100, Denver, CO 80202")
+active_instructor(true)
+
+##Methods
+-change_name("Rachel W."")
+-current_program("Mod 0")
+-change_program("Mod 1")
+-is_active(true)
