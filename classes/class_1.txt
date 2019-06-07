@@ -1,4 +1,4 @@
-# Programs
+# Program
 ##Attributes
 -title (string)
 -cost (integer)
@@ -7,7 +7,7 @@
 
 ##Methods
 -change_name(alters title)
--increase_tuition(raises cost)
--decrease_tuition(lowers cost)
+-increase_tuition(raises cost by 5000)
+-decrease_tuition(lowers cost 5000)
 -cancel_class (deletes instance)
 -change_instructor (replaces instructor)
